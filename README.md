@@ -37,7 +37,7 @@ This project includes a **Flask API** for making predictions using the trained m
    ```
 2. Run the Flask API script:
    ```bash
-   python api.py
+   python Flask API.py
    ```
 3. Test API endpoints using **Postman**.
 
